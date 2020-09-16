@@ -17,7 +17,7 @@ Build instructions:
 
     •  Change the file permission in executable mode by using “chmod +x task1.sh” command.
       
-Description
+Description:
 
 Here, “bash shuf command” is used to pseudo randomize a given input number. The option -i, drags shuf to operate as range shuf. Lower and higher range shuf produces a range of integers in random order. The program is able to generate any range of random numbers by a given input range.
 
@@ -40,8 +40,6 @@ Following exceptions are automatically handled by “shuf”.
 
     • Negative input value will generate an error. 
     • If lower range is greater than the higher range order, then “shuf” generates an error. 
-
-
 
 
 Limitations/bugs:
