@@ -25,13 +25,21 @@ Usage:
 
 To execute the code, use “ sh  task1.sh 1 10”  command  in the specific folder to generate a range of integers from 1 to 10 in random order . The output looks like as (It changes in each different run). 
 7
+
 9
+
 3
+
 4
+
 1
+
 2
+
 10
+
 8
+
 5
 
 Exception Handling:
