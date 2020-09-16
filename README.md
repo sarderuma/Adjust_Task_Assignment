@@ -53,3 +53,7 @@ Following exceptions are automatically handled by “shuf”.
 Limitations/bugs:
 
 The program doesn’t generate any float number. This will only generate the integer numbers in terms of a given input range. 
+
+#Task 2 Assignment
+Please follow the links to see the answer of the assignment.
+https://github.com/sarderuma/Adjust_Task_Assignment/blob/master/Task2.pdf
